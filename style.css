@@ -86,10 +86,12 @@ nav b {
 	border-radius: 25px;
 	font-size: 25px;
 	padding: 15px;
+	border-radius: 50px;
+	border: 7px black solid;
 }
 
 .biodata .header {
-	background: linear-gradient(90deg, pink 20%, darkblue);
+	background: linear-gradient(90deg, darkred 20%, blue);
 	border-radius: 20px;
 	color: white;
 }
@@ -99,7 +101,7 @@ nav b {
 }
 
 .biodata .tabel {
-	font-family: Calibri;
+	font-family: cursive;
 }
 
 .biodata .list {
@@ -116,7 +118,7 @@ nav b {
 }
 
 .kontak b {
-	background: linear-gradient(90deg, red 50%, blue);
+	background: linear-gradient(90deg, whitesmoke 50%, pink);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 	font-size: 35px;
